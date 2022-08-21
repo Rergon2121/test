@@ -1,6 +1,2 @@
-#include <stdio.h> 
-main () 
-{ 
-printf ( “Hello my old friend”); 
-}
-
+Nothing in here
+im just fuckin noobs burh
